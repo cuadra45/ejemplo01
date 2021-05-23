@@ -3,3 +3,8 @@ Ejercicios
 2. Iniciar proyecto localmente
 3. Copiar Archivos al proyecto local
 4. Agregar repositorio remoto al local
+
+
+Clonar
+git fetch -p
+git pull
