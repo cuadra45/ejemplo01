@@ -1,0 +1,5 @@
+Ejercicios
+1. Crear proyecto en Github con nombre ejemplo1
+2. Iniciar proyecto localmente
+3. Copiar Archivos al proyecto local
+4. Agregar repositorio remoto al local
